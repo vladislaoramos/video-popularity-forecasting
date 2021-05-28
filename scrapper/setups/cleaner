@@ -1,0 +1,12 @@
+rm ../features/channel-metrics/subscribers/*.*;
+rm ../features/channel-metrics/video/*.*;
+rm ../features/channel-metrics/views/*.*;
+rm ../features/comments/*.*;
+rm ../features/descriptions/*.*;
+rm ../features/dislikes/*.*;
+rm ../features/likes/*.*;
+rm ../features/views/*.*;
+rm ../features/top-comment/likes/*.*;
+rm ../features/top-comment/published/*.*;
+rm ../features/top-comment/replies/*.*;
+rm ../logs/*

@@ -1,0 +1,15 @@
+venv/
+
+*/__pycache__/*
+
+.DS_Store
+
+.idea
+
+scrapper/setups/storage/
+
+scrapper/logs/
+
+predictor/archive
+
+predictor/features/.ipynb_checkpoints
