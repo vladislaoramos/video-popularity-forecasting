@@ -13,3 +13,5 @@ scrapper/logs/
 predictor/archive
 
 predictor/features/.ipynb_checkpoints
+
+*/.ipynb_checkpoints/*
